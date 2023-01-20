@@ -1,5 +1,12 @@
 package Assignment2.java;
 
+/**
+ * The class for stating nth fibonacci sequence
+ * <p>
+ * Recursively return nth term in fibonacci sequence
+ * @author miles Newsom
+ * @version 1.0
+ */
 
 public class Assignment2 
 {
